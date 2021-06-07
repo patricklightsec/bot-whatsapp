@@ -374,8 +374,8 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA : 081368646011*
-│√ *GOPAY : 081368646011*
+│√ *PULSA : 6281511361526*
+│√ *GOPAY : 6281511361526*
 │
 │\`\`\`Gopay\`\`\`
 │ *15k Invite Bot Ke Grup selama 1 bulan*
