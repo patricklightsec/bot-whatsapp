@@ -64,18 +64,18 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
             + 'FN:DARK BOT\n'
             + 'ORG:Owner Gans;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6281511361526:+62 815-1136-1526\n'
             + 'END:VCARD'
 
 prefix = "#"
-name = "~ DARK BOT"
+name = "~ RISMAN-BOT"
 rdaftar = "HALLO KAK MAKASIH UDH DAFTAR YAA😁"
 rmenu = "HALLO KAK😊"
 botinfo = "MAU SEWA DONASI DLU YA KAK:)"
 limitt = 9999999999
 memberLimit = 2
 ban = ["6283806369677@s.whatsapp.net"]
-premium = ["6281368646011@s.whatsapp.net"]
+premium = ["6281511361526@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
